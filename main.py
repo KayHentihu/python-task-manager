@@ -1,0 +1,6 @@
+print ("===== TASK MANAGER =====")
+print ("1. Lihat tugas")
+print ("2. Tambah tugas")
+print ("3. Tandai tugas selesai")
+print ("4. Hapus tugas")
+print ("0. Keluar tugas")

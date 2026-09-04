@@ -22,9 +22,9 @@ Saat ini project masih dalam tahap awal.
 Fitur yang direncanakan:
 
 - [x] Menu utama
-- [ ] Menambahkan tugas
-- [ ] Melihat daftar tugas
-- [ ] Menandai tugas sebagai selesai
+- [x] Menambahkan tugas
+- [x] Melihat daftar tugas
+- [x] Menandai tugas sebagai selesai
 - [ ] Menghapus tugas
 - [ ] Menyimpan data tugas
 - [ ] Validasi input

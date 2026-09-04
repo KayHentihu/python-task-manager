@@ -40,10 +40,8 @@ Fitur yang direncanakan:
 | Role               | Member     |
 | ------------------ | ---------- |
 | Project Lead       | KayHentihu |
-| Developer          | TBD        |
-| Developer / Tester | TBD        |
-
-> Nama anggota tim akan diperbarui setelah seluruh anggota bergabung.
+| Developer          | Gilang     |
+| Developer / Tester | Alfarina   |
 
 ## 🚀 Cara Menjalankan
 

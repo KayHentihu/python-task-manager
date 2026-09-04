@@ -1,5 +1,4 @@
-tasks = []
-
-task = input("masukkan tugas : ")
-tasks.append(task)
-print("Tugas sudah selesai di tambahkan!!")
+def tambah_tugas(tasks):
+    task = input("masukkan tugas : ")
+    tasks.append(task)
+    print("Tugas sudah selesai di tambahkan!!")
